@@ -7,7 +7,6 @@ Open the project and just start playing
 The controls are simple:
 
 A - go left
-
 D - go right
 
 
